@@ -1,0 +1,2 @@
+# AI-SD-MJ-GPT-
+AI绘画SD/MJ/GPT百科全书
